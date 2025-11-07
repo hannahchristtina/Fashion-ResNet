@@ -5,7 +5,7 @@ This project focuses on high-accuracy fashion image classification using **Trans
 
 ---
 
-## Project Objective
+## Objective
 To build and train a robust deep learning model that accurately classifies 10 apparel categories using ResNet and provides reliable prediction.
 
 ---
