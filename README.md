@@ -33,7 +33,7 @@ The model is trained on an **expanded subset** of the **Fashion MNIST** dataset,
 
 ---
 
-## How to Run the Project
+## How to implement
 1. Open the notebook in Google Colab with GPU enabled.
 2. Run the cells sequentially from Phase 1 to Phase 4.
 3. The final cell will prompt for an image upload for live prediction.
