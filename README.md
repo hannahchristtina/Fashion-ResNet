@@ -1,7 +1,7 @@
 # Transfer Learning with ResNet for Fashion Image Classification
 
 ## Overview
-This project focuses on high-accuracy fashion image classification using **Transfer Learning** with the **ResNet**. It adapts the pre-trained model to the Fashion MNIST dataset, achieving high performance.
+This project focuses on high-accuracy fashion image classification using **Transfer Learning** with **ResNet**. It adapts the pre-trained model to the Fashion MNIST dataset, achieving high performance.
 
 ---
 
